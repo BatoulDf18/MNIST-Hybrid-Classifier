@@ -55,11 +55,5 @@ Le script affiche les précisions pour :
 - Le modèle k-NN seul
 - Le modèle hybride
 
-## Contribution
 
-Les contributions à ce projet sont les bienvenues. N'hésitez pas à ouvrir une issue ou à soumettre une pull request.
-
-## Licence
-
-[Insérez ici les informations de licence appropriées]
 
